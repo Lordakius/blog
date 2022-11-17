@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brahms Blog</title>
+    <link>/</link>
+    <description>Recent content on Brahms Blog</description>
+    
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2022 12:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hej there!
+I am a computer scientist, living in Berlin, Germany. I work in IT forensics but also enjoy dabbling with hardware and other &amp;ldquo;tech stuff&amp;rdquo;. This blog has two objectives: firstly, I want to vent about things that annoy me and maybe also get you to dislike the same things ;) But I also want to use it to procrastinate my usual stuff with funny things and document them here.</description>
+    </item>
+    
+    <item>
+      <title>A really long article</title>
+      <link>/posts/lorem-ipsum/</link>
+      <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+      
+      <guid>/posts/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A really long article</title>
+      <link>/stories/lorem-ipsum/</link>
+      <pubDate>Sun, 25 Sep 2022 12:00:00 +0000</pubDate>
+      
+      <guid>/stories/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaslaanka Theme Demo</title>
+      <link>/posts/kaslaanka-theme-demo/</link>
+      <pubDate>Tue, 21 Dec 2021 12:00:00 +0000</pubDate>
+      
+      <guid>/posts/kaslaanka-theme-demo/</guid>
+      <description>Kaslaanka is a Bootstrap based minimalist theme for Hugo
+Photo by eberhard 🖐 grossgasteiger on Unsplash Typography Follows the Bootstrap based typography.
+h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+Block quotes are written like so.
+They can span multiple paragraphs, if you like.
+Some text, and some code and then a nice plain link with title.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+sitename: "Brahms Blog"
+baseURL: "/"
+languageCode: en-us
+title: "Brahms Blog"
+author: Brahms 
+
+enableEmoji: false 
+hasCJKLanguage: false
+pygmentsstyle: "tango"
+pygmentscodefences: true
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Links of the navbar
+menu:
+  primary:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Posts
+      url: /posts
+      weight: 2
+    - name: Stories
+      url: /stories
+      weight: 3
+    - name: About
+      url: /about
+      weight: 4
+
+# You can add languages!
+# do not expect it to work out of the box
+# https://gohugo.io/content-management/multilingual/
+defaultContentLanguage: en
+languages:
+  en:
+    LanguageName: English
+    # contentDir: content/blog/en
+
+params:
+  # you should change this
+  # or delete it with /layout/blog/single.html
+  # the latter is recommended
+  baseURL: "/"
+  sitename: "Brahms Blog"
+  # it will produce: copyrights (c) 2022 joe
+  copyrights: Brahms
+  # path to the favicon directory
+  # see ./layouts/_defaults/baseof.html line #30 to line #37
+#  faviconpath: "/img/favicon"
+  # projects will show in the index page
+  # myprojects:
+  #  - name: "Totally Awesome Project"
+  #    description: "Machine Learning Magic!!!"
+  #    url: https://example.com
+  # link to more projects
+  # show your github repositories as example
+  # or create your own page.
+  # projectsURL: https://example.com
+
+  # a brief about me
+  brief_about: <center>Blog about random stuff from a random dude</center>
+
+# and don't forget
+theme: kaslaanka
+
